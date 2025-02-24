@@ -1,7 +1,6 @@
 # Nom des participants
 
-   
+   - Mouhamed Mountaga DIAO
    - Yannick WENG
    - Sid ARIFI
-   - Mouhamed Mountaga DIAO
-   - test sdfsdf
+
